@@ -10,4 +10,4 @@
   </tr>
 </table>
 
-<img src="LogWorthy_method.png" width="1000" height="800">
+<img src="LogWorthy_method.png" width="1000" height="1000">
