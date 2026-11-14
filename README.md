@@ -155,7 +155,7 @@ Run the tests with `pytest`.
   author  = {Dang, Tung and Phung, The Hung and Nguyen, Son Lam and Nguyen, Tu},
   journal = {arXiv preprint},
   year    = {2026},
-  doi     = {10.48550/arXiv.2607.11269}
+  doi     = {}
 }
 ```
 
