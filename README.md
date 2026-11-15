@@ -153,7 +153,7 @@ Run the tests with `pytest`.
   title   = {Can your log support a policy? Action--outcome coupling audit
              for offline reinforcement learning},
   author  = {Dang, Tung and Phung, The Hung and Nguyen, Son Lam and Nguyen, Tu},
-  journal = {arXiv preprint},
+  journal = {},
   year    = {2026},
   doi     = {}
 }
