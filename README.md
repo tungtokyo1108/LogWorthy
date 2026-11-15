@@ -6,7 +6,7 @@
     <td>
       <h1>LogWorthy</h1>
       <h2>Can your log support a policy? Action–outcome coupling audit for offline reinforcement learning</h2>
-      <h3>Tung Dang, The Hung Phung, Son Lam Nguyen, and Tu Nguyen (2026). arXiv preprint. https://doi.org/10.48550/arXiv.2607.11269 </h3>
+      <h3>Tung Dang, The Hung Phung, Son Lam Nguyen, and Tu Nguyen (2026). </h3>
     </td>
   </tr>
 </table>
